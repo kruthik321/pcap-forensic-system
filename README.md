@@ -72,6 +72,13 @@ pip install -r requirements.txt
 ```
 
 ### 3. Launch the Web Dashboard
+## 🌐 Live Application
+Access the deployed PCAP Forensic Analysis System here:
+
+**Public Demo:** https://pcap-forensic-system.streamlit.app
+
+## 💻 Run Locally
+
 Double-click `run_dashboard.bat` **OR** run:
 ```powershell
 streamlit run app.py
