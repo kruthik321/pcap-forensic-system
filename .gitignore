@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# IDE
+.vscode/
+.idea/
+
+# Temporary files
+*.log
+.DS_Store
+Thumbs.db
+
+# Temporary database files and test artifacts
+*.sqlite-journal
+*.db
+*.sqlite
+*.sqlite3
+sample_pcaps/*_forensics.db
+sample_pcaps/*_evidence.xml
+sample_pcaps/*_report.html
+temp_*.pcap
+temp_*.pcapng
+*.tmp
